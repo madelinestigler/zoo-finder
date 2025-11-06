@@ -1,4 +1,4 @@
-# 🏠 Zoo Hunter
+# 🏠 Zoo Finder
 
 A **collaborative** rental property tracking app for couples finding their perfect home. Share data in real-time, track Zillow listings, schedule tours, and manage preferences together.
 
@@ -114,5 +114,3 @@ Vercel KV environment variables are automatically configured when you add the da
 - **📱 Multi-Device**: Works on phones, tablets, and computers
 
 ---
-
-**Ready to deploy?** Add Vercel KV storage and your Zoo Hunter will sync between partners in real-time! 🚀 
